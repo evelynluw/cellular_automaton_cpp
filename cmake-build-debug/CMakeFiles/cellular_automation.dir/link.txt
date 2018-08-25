@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cellular_automation.dir/main.cpp.o CMakeFiles/cellular_automation.dir/cellular_automation.cpp.o  -o cellular_automation 

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/evelyn/CLionProjects/cellular_automation/cellular_automation.cpp
+cellular_automation.h
+/home/evelyn/CLionProjects/cellular_automation/cellular_automation.h
+constants.h
+/home/evelyn/CLionProjects/cellular_automation/constants.h
+iostream
+-
+string
+-
+
+/home/evelyn/CLionProjects/cellular_automation/cellular_automation.h
+constants.h
+/home/evelyn/CLionProjects/cellular_automation/constants.h
+string
+-
+
+/home/evelyn/CLionProjects/cellular_automation/constants.h
+
+/home/evelyn/CLionProjects/cellular_automation/main.cpp
+iostream
+-
+cellular_automation.h
+/home/evelyn/CLionProjects/cellular_automation/cellular_automation.h
+constants.h
+/home/evelyn/CLionProjects/cellular_automation/constants.h
+
